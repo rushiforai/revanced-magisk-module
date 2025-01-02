@@ -61,6 +61,6 @@ uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 build-mode = "apk"
 uptodown-dlurl = "https://nfc-tools.en.uptodown.com/android"
 
-[IR]
-build-mode = "apk"
-uptodown-dlurl = "https://irplus.en.uptodown.com/android"
+# [IR]
+# build-mode = "apk"
+# uptodown-dlurl = "https://irplus.en.uptodown.com/android"
